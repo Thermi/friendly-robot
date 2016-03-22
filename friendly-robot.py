@@ -1,4 +1,6 @@
 #! /bin/env python2
+# friendly robot - scouers through XML export file of keepassx to find a password
+# Copyright (C) 2016 Noel Kuntze
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
